@@ -47,3 +47,6 @@ I framed the task of predicting song popularity as a **binary classification** p
 
 ## Skills acquired
 This project provided my first end-to-end quantitative analysis, solidifying skills in **Python, data analysis, visualization, and model evaluation**. Most importantly, I gained a **structured approach to problem-solving**.
+
+## View the analysis
+[Click here to view the Project Report](https://htmlpreview.github.io/?https://github.com/poladama/data-science-portfolio/blob/main/Predicting_Spotify_Songs_Popularity/Predicting_Spotify_Songs_Popularity.html)
